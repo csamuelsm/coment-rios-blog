@@ -1,0 +1,1 @@
+Este repositório é dedicado a armazenar os comentários do [meu site](meu-blog-csamuelsm.vercel.app/) utilizando [Utterances](https://utteranc.es/).
